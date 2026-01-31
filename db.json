@@ -1,0 +1,58 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "name": "Khushaboo",
+      "email": "khushaboo@gmail.com",
+      "mobno": 9563285326
+    },
+    {
+      "id": 102,
+      "name": "Roshan",
+      "email": "roshan@gmail.com",
+      "mobno": 4563289326
+    },
+    {
+      "id": 103,
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "mobno": 7896585966
+    },
+    {
+      "id": 104,
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "mobno": 8632594326
+    },
+    {
+      "id": 105,
+      "name": "Sakshi",
+      "email": "sakshi@gmail.com",
+      "mobno": 7896541238
+    },
+    {
+      "id": 106,
+      "name": "Mona",
+      "email": "mona@gmail.com",
+      "mobno": 7548213695
+    },
+    {
+      "id": 107,
+      "name": "Damini",
+      "email": "damini@gmail.com",
+      "mobno": 1245789632
+    },
+    {
+      "id": 108,
+      "name": "Raju",
+      "email": "raju@gmail.com",
+      "mobno": 1254637895
+    },
+    {
+      "id": 109,
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "mobno": 4625789632
+    }
+  ]
+}
